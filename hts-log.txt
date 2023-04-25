@@ -1,0 +1,28 @@
+HTTrack3.49-2 launched on Mon, 24 Apr 2023 12:07:55 at https://wpriverthemes.com/drake/
+(winhttrack https://wpriverthemes.com/drake/ -O "/home/kashif/websites/testing" -Y -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:09:16	Error: 	"Not Found" (404) at link maxst.icons8.com/ (from https://wpriverthemes.com/drake/)
+12:09:17	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://wpriverthemes.com/drake/)
+12:10:49	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://wpriverthemes.com/drake/)
+12:11:14	Error: 	"Not Found" (404) at link https://wpriverthemes.com/drake/wp-content/themes/drake/assets/css/owl.video.play.png (from https://wpriverthemes.com/drake/wp-content/themes/drake/assets/css/owl.carousel.min.css?ver=6.2)
+12:11:16	Warning: 	Moved Permanently for https://wpriverthemes.com/drake/?p=199
+12:11:16	Warning: 	File has moved from https://wpriverthemes.com/drake/?p=199 to https://wpriverthemes.com/drake/earth-lines-sphere/
+12:11:16	Warning: 	Moved Permanently for https://wpriverthemes.com/drake/?p=201
+12:11:16	Warning: 	File has moved from https://wpriverthemes.com/drake/?p=201 to https://wpriverthemes.com/drake/3d-abstract-ball/
+12:11:16	Warning: 	Moved Permanently for https://wpriverthemes.com/drake/?p=203
+12:11:16	Warning: 	File has moved from https://wpriverthemes.com/drake/?p=203 to https://wpriverthemes.com/drake/water-waves/
+12:11:16	Warning: 	Moved Permanently for https://wpriverthemes.com/drake/?p=205
+12:11:16	Warning: 	File has moved from https://wpriverthemes.com/drake/?p=205 to https://wpriverthemes.com/drake/liquids-wavy/
+12:11:19	Warning: 	Moved Permanently for https://wpriverthemes.com/drake/?p=207
+12:11:19	Warning: 	File has moved from https://wpriverthemes.com/drake/?p=207 to https://wpriverthemes.com/drake/simple-strings/
+12:11:19	Error: 	"Not Found" (404) at link https://wpriverthemes.com/drake/t (from https://wpriverthemes.com/drake/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.5.1)
+12:11:19	Error: 	"Not Found" (404) at link https://wpriverthemes.com/drake/-negative.svg (from https://wpriverthemes.com/drake/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.12.1)
+12:11:19	Error: 	"Not Found" (404) at link https://wpriverthemes.com/drake/OPR/ (from https://wpriverthemes.com/drake/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.12.1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 24 seconds : 174 links scanned, 155 files written (38826597 bytes overall) [34236508 bytes received at 167826 bytes/sec], 7639615 bytes transferred using HTTP compression in 119 files, ratio 36%, 2.7 requests per connection
+(7 errors, 10 warnings, 0 messages)
